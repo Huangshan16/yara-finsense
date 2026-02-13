@@ -1,0 +1,5 @@
+{
+  "name": "FinSense AI - Smart Investment Dashboard",
+  "description": "A sophisticated financial intelligence dashboard that aggregates news from Gelonhui, Flush, and Xueqiu, providing AI-powered company analysis, valuation modeling, and sector tracking.",
+  "requestFramePermissions": []
+}
